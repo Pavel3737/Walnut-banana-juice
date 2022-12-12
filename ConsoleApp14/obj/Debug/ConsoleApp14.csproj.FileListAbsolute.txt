@@ -1,0 +1,9 @@
+C:\Users\28-1.CLP\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\28-1.CLP\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\28-1.CLP\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\28-1.CLP\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\SmallBasicLibrary.dll
+C:\Users\28-1.CLP\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\28-1.CLP\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\28-1.CLP\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CopyComplete
+C:\Users\28-1.CLP\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\28-1.CLP\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
